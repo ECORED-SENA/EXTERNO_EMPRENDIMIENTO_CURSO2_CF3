@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 2
-      h1 Presentación de una propuesta
+      h1 Estrategia emprendedora juvenil
     figure
       img(src='@/assets/template/tema-2-1.png', alt='Texto que describa la imagen')
     .row.px-5.mt-n5
@@ -14,7 +14,7 @@
     .h5.mt-5.text-center Para conocer más sobre estrategia emprendedora juvenil, visualiza el video:
     figure.mt-4
       .video
-        iframe(width="560" height="315" src="https://youtu.be/jfaawqGL3Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/jfaawqGL3Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mt-5
       .col-10.col-lg-8.offset-1.offset-lg-2.p-4.bg-azul-deg.rounded-20
         .row
@@ -54,7 +54,7 @@
           p.px-0.mt-3 Observa el video sobre la visión emprendedora y cómo podemos construirla de acuerdo con el propósito planteado.
           figure.mt-4.px-4
             .video
-              iframe(width="560" height="315" src="https://youtu.be/jfaawqGL3Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+              iframe(width="560" height="315" src="https://www.youtube.com/embed/5wkief9wb7U" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
             
         .row(numero="3" titulo="Define tus valores").px-3
           p.px-0 Son los principios que direccionan la vida, base para la tomar decisiones. Los valores enmarcan el camino hacia las metas establecidas, ya que dan los límites de lo que se está dispuesto a hacer. Ejemplo de valores son: la honestidad, el respeto, la solidaridad, la lealtad, el amor, etc. 

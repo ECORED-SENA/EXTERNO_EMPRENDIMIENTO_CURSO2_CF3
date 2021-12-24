@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 1
-      h1 Concepto
+      h1 Juventud capacidad creativa e innovadora
 
     figure
       img(src='@/assets/template/tema-1-1.png', alt='Texto que describa la imagen')
@@ -16,7 +16,7 @@
       .h5.mt-4 Profundiza sobre la creatividad emprendedora en el siguiente video:
     figure.mt-4
       .video
-        iframe(width="560" height="315" src="https://youtu.be/TweiZdMxh9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/TweiZdMxh9I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mt-4
       .col-4.d-none.d-lg-flex
         figure
@@ -85,7 +85,7 @@
             p.px-0 Otra manera de innovar es transformar la forma en que se hacen las cosas dentro de una organización mediante la implementación o adecuación de procesos de fabricación, logística o distribución, que conlleva a minimizar los costos de producción, mejorar la calidad, disminuir los tiempos; entre otros. 
             p.mt-3 Un ejemplo es la empresa de correos DHL, que implementó el uso de drones para el servicio de entrega de paquetes (hasta de 5 kg) a una distancia máxima de 8 km dentro del perímetro urbano, permitiendo un ahorro hasta de 80% en los costos por entrega, además de una reducción de consumo energético y huella de carbono.
             
-          .row(numero="3" titulo="Innovación en la gestión (organizacional y marketing").px-3
+          .row(numero="3" titulo="Innovación en la gestión (organizacional y marketing)").px-3
             p.px-0 Redefinir nuevos métodos organizacionales que incluyen mejoras en las actividades de gestión de la empresa. (gestión del conocimiento, recursos humanos, gestión de la cadena de valor, administración, sistema de calidad, etc.). 
             p.mt-3 Un ejemplo para citar es la entidad bancaria Bancolombia, la cual ha creado diferentes soluciones tecnológicas no sólo para digitalizar sus servicios sino también para mejorar la gestión financiera y contable propia y de sus clientes.
 
