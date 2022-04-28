@@ -5,7 +5,7 @@
     .titulo-principal
       .titulo-principal__numero
         span 3
-      h1 Diseño de un plan de acción
+      h1 #[em Tips] de un plan de acción
     figure
       img(src='@/assets/template/tema-3-1.png', alt='Texto que describa la imagen')
     .row.px-5.mt-n5
