@@ -59,7 +59,7 @@ export default {
         nombreRuta: 'tema3',
         icono: 'far fa-file-alt',
         numero: '3',
-        titulo: '<em>Tips</em> de un plan de acción',
+        titulo: 'Diseño de un plan de acción',
         desarrolloContenidos: true,
         subMenu: [],
       },
