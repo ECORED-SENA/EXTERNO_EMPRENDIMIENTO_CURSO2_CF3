@@ -105,22 +105,22 @@
             figure
               img(src='@/assets/template/tema-1-6.png', alt='Texto que describa la imagen')
 
-          div(x="10%" y="66%" tooltip="<em>Clic</em> para más información" numero="+")
+          div(x="10%" y="66%" tooltip="Clic para más información" numero="+")
             p #[strong Explorar:] Esta etapa se centra en la generación de una pregunta de búsqueda, permite identificar un problema, centrado en el QUIÉN (usuario).
           
-          div(x="30%" y="19%" tooltip="<em>Clic</em> para más información" numero="+")
+          div(x="30%" y="19%" tooltip="Clic para más información" numero="+")
             p #[strong Comprender: ] Se enfoca en conocer a quien se le va a resolver el problema, planteando preguntas básicas como: edad, sexo, nivel de ingresos, estrato y preguntas más específicas relacionadas con intereses, dificultades y expectativas; el objetivo es identificar las necesidades y oportunidades de los usuarios.
             .row.mt-4
               .col-10.col-lg-8.offset-1.offset-lg-2
                 figure
                   img(src='@/assets/template/tema-1-7.png', alt='Texto que describa la imagen')
-          div(x="50%" y="66%" tooltip="<em>Clic</em> para más información" numero="+")
+          div(x="50%" y="66%" tooltip="Clic para más información" numero="+")
             p #[strong Idear: ] Como lo indica el nombre, esta fase consiste en la generación de ideas innovadoras para la solución al problema planteado. Para este fin se reúne un equipo multidisciplinar, normalmente a través de talleres de cocreación. Contar con personas con diferentes perfiles permite ampliar el espectro y enriquecer las soluciones.  La ideación suele iniciar con un #[em brainstorming] o lluvia de ideas.
 
-          div(x="70%" y="19%" tooltip="<em>Clic</em> para más información" numero="+")
+          div(x="70%" y="19%" tooltip="Clic para más información" numero="+")
             p #[strong Prototipar: ] Esta etapa se describe cómo “pensar con las manos”. El objetivo es desarrollar diseños de prueba, con el fin de verificar la viabilidad de las ideas de manera fácil, rentable y efectiva, corregir defectos antes de generar un proyecto piloto.  Los prototipos deben ser tangibles para animar al usuario a probarlos.
           
-          div(x="90.5%" y="66%" tooltip="<em>Clic</em> para más información" numero="+")
+          div(x="90.5%" y="66%" tooltip="Clic para más información" numero="+")
             p #[strong Testar (o fase de prueba): ] En esta etapa se ponen a prueba las ideas, se recibe retroalimentación del usuario para descartar fallas, mejorar el prototipo y presentar una versión mejorada. La validación del prototipo es necesaria, cuantas más pruebas se realicen mayores serán las oportunidades de éxito. Generalmente se siguen los siguientes pasos:
             .row.mt-4
               .col-10.col-lg-8.offset-1.offset-lg-2
