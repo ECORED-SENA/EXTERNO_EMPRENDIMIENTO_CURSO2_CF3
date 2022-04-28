@@ -35,7 +35,7 @@ export default {
           {
             icono: 'far fa-file-alt',
             numero: '1.2',
-            titulo: 'Design thinking',
+            titulo: '<em>Design thinking</em>',
             hash: 't_1_2',
           },
         ],
@@ -67,25 +67,25 @@ export default {
     subMenu: [
       {
         icono: 'fas fa-sitemap',
-        titulo: 'Sintesis',
+        titulo: 'Síntesis',
         nombreRuta: 'sintesis',
       },
-      {
-        nombreRuta: 'actividad',
-        icono: 'far fa-question-circle',
-        titulo: 'Actividad didáctica',
-        desarrolloContenidos: true,
-      },
+      //{
+      //  nombreRuta: 'actividad',
+      //  icono: 'far fa-question-circle',
+      //  titulo: 'Actividad didáctica',
+      //  desarrolloContenidos: true,
+      //},
       {
         nombreRuta: 'glosario',
         icono: 'fas fa-sort-alpha-down',
         titulo: 'Glosario',
       },
-      {
-        nombreRuta: 'complementario',
-        icono: 'far fa-folder-open',
-        titulo: 'Material complementario',
-      },
+      //{
+      //  nombreRuta: 'complementario',
+      //  icono: 'far fa-folder-open',
+      //  titulo: 'Material complementario',
+      //},
       {
         icono: 'fas fa-book',
         titulo: 'Referencias bibliográficas',
@@ -112,12 +112,12 @@ export default {
     },
     {
       referencia:
-        'Blooming potential educational consulting. (8 de febrero de 2016). La visión, cómo construir una vida con propósito.',
+        '<em>Blooming potential educational consulting</em>. (8 de febrero de 2016). La visión, cómo construir una vida con propósito.',
       link: 'https://www.youtube.com/watch?v=i9jaUL9dJJw',
     },
     {
       referencia:
-        'Denkmodell. (2019). Manual Design Thinking. Publicación inédita.',
+        'Denkmodell. (2019). Manual <em>Design Thinking</em>. Publicación inédita.',
       link: '',
     },
     {
@@ -152,7 +152,7 @@ export default {
         'Conjunto de recursos y aptitudes que tiene un individuo para generar ideas.',
     },
     {
-      termino: 'Design thinking',
+      termino: '<em>Design thinking</em>',
       significado:
         'Proceso creativo que consiste en definir el problema que se pretende abordar para entenderlo y posteriormente, implementar las soluciones, siempre enfocando el proceso hacia las necesidades del usuario y generando valor. (Benet, 2017)',
     },

@@ -1,1 +1,1 @@
-module.exports = 'Definición de la estrategia digital'
+module.exports = 'Creatividad y estrategia emprendedora'

@@ -10,7 +10,7 @@
       img(src='@/assets/template/tema-2-1.png', alt='Texto que describa la imagen')
     .row.px-5.mt-n5
       .col-12.p-4.bg-gris-deg.rounded-15
-        p El concepto de estrategia tiene su origen en el campo militar (es la fusión de dos palabras griegas: stratos - ejército y agein - conducir, guiar), en la actualidad, este concepto ha migrado a ambientes sociales, económicos, políticos, educativos, empresariales y personales y se define como un conjunto de acciones, estudiadas y analizadas, que conducen hacia el logro de una meta con el mínimo error posible.
+        p El concepto de estrategia tiene su origen en el campo militar (es la fusión de dos palabras griegas: #[em stratos] - ejército y #[em agein] - conducir, guiar), en la actualidad, este concepto ha migrado a ambientes sociales, económicos, políticos, educativos, empresariales y personales y se define como un conjunto de acciones, estudiadas y analizadas, que conducen hacia el logro de una meta con el mínimo error posible.
     .h5.mt-5.text-center Para conocer más sobre estrategia emprendedora juvenil, visualiza el video:
     figure.mt-4
       .video
@@ -72,7 +72,7 @@
             )
             .indicador--hover(v-if="indicadorImagenZoom")
         .row(numero="6" titulo="Mecanismos de comunicación. ").px-3
-          p.px-0 Para generar relaciones de valor y alianzas efectivas es clave relacionarse con personas conocedoras del tema de interés, que sean reconocidos/as en el medio, Como seres sociales que somos por naturaleza, no se puede aspirar a lograr las metas en solitario, es importante relacionarse con los otros y comunicar las ideas y propósitos. De ese modo, se genera el feedback necesario para avanzar en nuestra idea de negocio.
+          p.px-0 Para generar relaciones de valor y alianzas efectivas es clave relacionarse con personas conocedoras del tema de interés, que sean reconocidos/as en el medio, Como seres sociales que somos por naturaleza, no se puede aspirar a lograr las metas en solitario, es importante relacionarse con los otros y comunicar las ideas y propósitos. De ese modo, se genera el #[em feedback] necesario para avanzar en nuestra idea de negocio.
         
         .row(numero="7" titulo="Dirección estratégica").px-3
           p.px-0 Busca alinear todos los esfuerzos en torno al objetivo propuesto, una de las tareas primordiales es saber hacia dónde se quiere llegar y esto dependerá de la misión y visión, pero también hay que tener en cuenta los factores externos que pueden impulsar u obstaculizar los procesos; un elemento clave en la dirección estratégica es direccionar y movilizar todos los esfuerzos posibles para hacer que las cosas ocurran, generando acción. Cuando somos capaces de movilizarnos, entonces será posible afrontar cualquier objetivo y encauzar todos los recursos disponibles hacia él.
